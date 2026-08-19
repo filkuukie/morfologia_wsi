@@ -14,31 +14,27 @@ Proces tworzenia został oparty o metodę historyczną i kartograficzną, czyli 
 ![podgląd z qgis](previews/prev1.png)
 ![podgląd z qgis](previews/prev11.png)
 
-
 - Georeferencja mapy historycznej w programie ArcMap metodą dopasowania koordynatów z mapy do punktów kontrolnych.
-
- 
-
+  
 ![podgląd z qgis](previews/prev2.png)
-
 
 - Digitalizacja sieci budynków z mapy WIGowskiej oraz cmentarzy na bazie obydwóch map do formy wektorowej
 
 ![podgląd z qgis](previews/prev3.png)
 
-
 - Dodanie obiektów współczesnych z danych BDOT do projektu mapy i wycięcie ich do obszaru opracowania. 
 
 ![podgląd z qgis](previews/prev4.png)
+
 - Użycie narzędzia Intersect w programie ArcMap w celu złączenia wspólnych części dwóch warstw budynków historycznych i współczesnych 
 
 ![podgląd z qgis](previews/prev5.png)
 
-
 Tym o to sposobem uzyskaliśmy potrzebny nam materiał do analizy zmian w morfologii obydwu lokacji.
 
 ![podgląd z qgis](previews/prev6.png)
+***Mapa cmentarza i budynków przedwojennych ze współczesnymi drogami we wsi Rokitnica***
 
-
-Mapa cmentarza i budynków przedwojennych ze współczesnymi drogami we wsi Rokitnica
-
+# Jak uruchomić projekt?
+Należy pobrać repozytorium, rozpakować archiwum i uruchomić plik: projekt10.8.mpk (ArcMap/QGIS) lub mapa.mxd (ArcMap). Dostępna jest także prezentacja z mapami porównawczymi
+(mapy_porownawcze.pptx) i całe opracowanie tekstowe na temat tej analizy (opracowanie.docx)
